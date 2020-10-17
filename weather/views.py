@@ -1,4 +1,8 @@
 from django.shortcuts import render
 
+
 # Create your views here.
-# Views here
+
+print("Hello World")
+# Create your views here. Comments
+print("hello hi")
