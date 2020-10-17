@@ -5,3 +5,4 @@ from django.shortcuts import render
 
 print("Hello World")
 # Create your views here. Comments
+print("hello hi")
