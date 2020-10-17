@@ -8,7 +8,7 @@ We can use any website to view temperature or any information related to weather
   `python -m venv env` ***(Where 'env' is the name  of virtual environment, you can name it anything)***
   #### To activate your virtual environment, use `env\scripts\activate`
 ## Install all the project dependencies written in ***requirements.txt***, using:
-`python install -r requirements.txt`
+`pip install -r requirements.txt`
 ###### Above command will install all the necessary modules or dependencies in your virtual environment. And now you are good to work on this project.
 
 
